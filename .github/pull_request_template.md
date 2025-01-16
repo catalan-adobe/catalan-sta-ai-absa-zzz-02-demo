@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--catalan-sta-ai-absa--aemdemos.aem.live/
-- After: https://<branch>--catalan-sta-ai-absa--aemdemos.aem.live/
+- After: https://main--catalan-sta-ai-absa--aemdemos.aem.live/
