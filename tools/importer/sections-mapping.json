@@ -119,7 +119,7 @@
               ],
               "color": "rgba(0, 255, 0, 0.4)",
               "mapping": "cards",
-              "customBlockName": ""
+              "customBlockName": "absa-cards"
             }
           ],
           "settings": {}
